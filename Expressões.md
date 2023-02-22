@@ -94,3 +94,5 @@ print(x <= y)
 ```
 
 Nesse exemplo, o primeiro print vai mostrar falso, já que `x` e `y` são diferentes. O segundo print vai mostrar verdadeiro, já que `x` e `y` são diferentes. Os próximos dois prints vão mostrar falso, já que `x` é menor que `y`. Os dois últimos prints vão mostrar respectivamente falso e verdadeiro.
+
+Espero que esses exemplos tenham ajudado a entender melhor sobre expressões aritméticas e lógicas em Python!

@@ -49,3 +49,5 @@ for i in range(10):
 ```
 
 Nesse exemplo, a estrutura `for` itera sobre a sequência numérica de 0 a 9. Quando a variável `i` é igual a 5, a palavra-chave `break` interrompe o loop. Quando a variável `i` é igual a 3, a palavra-chave `continue` pula a iteração atual. Caso contrário, a função `print()` exibe o valor da variável `i`.
+
+Espero que agora você tenha uma ideia de como funcionam as estruturas de repetição em Python!

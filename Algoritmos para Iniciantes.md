@@ -41,7 +41,4 @@ for i in range(tamanho):
 
 Neste exemplo, temos uma lista de números não classificada e usamos o algoritmo de ordenação de bolhas para classificá-la em ordem crescente. Basicamente, o algoritmo compara pares de números consecutivos na lista e troca suas posições se o primeiro número for maior do que o segundo número. Este processo é repetido várias vezes até que a lista esteja completamente classificada.
 
-Espero que esses exemplos tenham ajudado você a entender melhor o que são algoritmos e como eles podem ser usados em Python. Lembre-se de que existem muitos outros algoritmos que você pode aprender e usar, e que a prática é a chave para se tornar um bom programador. Boa sorte!]
-
-
-![[Recording 20230221113740.webm]]
+Espero que esses exemplos tenham ajudado você a entender melhor o que são algoritmos e como eles podem ser usados em Python. Lembre-se de que existem muitos outros algoritmos que você pode aprender e usar, e que a prática é a chave para se tornar um bom programador. Boa sorte!

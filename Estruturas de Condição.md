@@ -27,3 +27,5 @@ else:
 ```
 
 Nesse exemplo, a estrutura `if-else` verifica se a idade é maior ou igual a 18. Se for, a função `print()` exibe a mensagem "Você é maior de idade". Caso contrário, a função `print()` exibe a mensagem "Você é menor de idade".
+
+Espero que agora você tenha uma ideia de como funcionam as estruturas de condição em Python!

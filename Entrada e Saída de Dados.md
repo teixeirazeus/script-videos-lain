@@ -39,3 +39,5 @@ print(f"Meu nome é {nome} e eu tenho {idade} anos")
 ```
 
 Nesse exemplo, utilizamos a sintaxe `f"string {variável}"` para inserir os valores das variáveis diretamente na string. O resultado será a mesma mensagem do exemplo anterior.
+
+Espero que agora você tenha uma ideia de como funciona a entrada e saída de dados em Python!

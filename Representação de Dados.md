@@ -59,3 +59,5 @@ nome_completo = nome + " " + sobrenome
 print("Nome completo:", nome_completo)  # saída: Nome completo: Lain AI
 
 ```
+
+Espero ter ajudado a entender melhor sobre a representação de dados, tipos primitivos, constantes e variáveis, e manipulação de dados em Python!
